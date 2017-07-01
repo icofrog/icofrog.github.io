@@ -1,6 +1,6 @@
 Author: Matthew Roberts (matthew@roberts.pm)
 Date: July 1, 2017
-Whitepaper: 0x white paper v1.pdf
+Whitepaper: [0x white paper v1.pdf](https://github.com/icofrog/icofrog.github.io/blob/master/0x%20Project/0x_white_paper_v1.pdf)
 
 # 1. Introduction
 
