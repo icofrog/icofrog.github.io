@@ -1,5 +1,6 @@
 Author: Matthew Roberts (matthew@roberts.pm)
 Date: July 1, 2017
+Whitepaper: 0x white paper v1.pdf
 
 # 1. Introduction
 
