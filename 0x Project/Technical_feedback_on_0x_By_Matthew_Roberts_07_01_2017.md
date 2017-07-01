@@ -8,7 +8,7 @@ Whitepaper: [0x white paper v1.pdf](https://github.com/icofrog/icofrog.github.io
 
 The 0x Project is an attempt to introduce a decentralized exchange
 protocol for ERC-20 tokens in the Ethereum world. The exchange focuses
-on building a system that can be used to incentive users to run
+on building a system that can be used to incentivize users to run
 servers that will serve as order books to match orders within the
 system.
 
